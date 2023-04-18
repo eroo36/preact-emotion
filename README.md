@@ -1,6 +1,6 @@
 # preact-emotion
 
-This repo is copied and fixed a small esm issue for being able to use with vite.
+This repo is copied and fixed because of a small esm issue for being able to use with vite.
 
 > The styled API for emotion and preact
 
