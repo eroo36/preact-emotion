@@ -23,9 +23,9 @@
     "preact": "8.x"
   },
   "devDependencies": {
-    "emotion": "^9.2.12",
-    "preact": "^8.2.9",
-    "react-emotion": "^9.2.12"
+    "emotion": "9.2.12",
+    "preact": "8.2.9",
+    "react-emotion": "9.2.12"
   },
   "author": "Kye Hohenberger",
   "homepage": "https://emotion.sh",
