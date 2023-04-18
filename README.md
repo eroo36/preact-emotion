@@ -1,5 +1,7 @@
 # preact-emotion
 
+This repo is copied and fixed because of a small esm issue for being able to use with vite.
+
 > The styled API for emotion and preact
 
 `preact-emotion` exports `styled` which allows you to use emotion to create Preact components that have styles attached to them, it also exports all of `emotion`'s exports.
